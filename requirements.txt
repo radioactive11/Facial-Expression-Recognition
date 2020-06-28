@@ -1,0 +1,7 @@
+numpy
+tensorflow
+matplotlib
+livelossplot
+flask
+opencv-python
+keras
