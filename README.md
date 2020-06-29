@@ -60,6 +60,7 @@ The training dataset contains:
 * 3995 angry images
 
 <p align>
+  I used the following architecture to train the model on [Google Colab](colab.research.google.com) and downloaded the weights.
     <img src = "model.png" alt = "Model Architecture" align="center">
 </p>
 
