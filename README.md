@@ -46,7 +46,7 @@
 ## About The Project
 
 
-Facial expression recogniton aims to detect the persons feeling by using a video stream from the webcam. This detector can detect 7 human emotions which are **Angry**, **Disgust**, **Fear**, **Happy**, **Neutral**, **Sad**, **Surprise** </br>
+Facial expression recognition aims to detect the persons feeling by using a video stream from the webcam. This detector can detect 7 human emotions which are **Angry**, **Disgust**, **Fear**, **Happy**, **Neutral**, **Sad**, **Surprise** </br>
 
 The model was trained using the [ICML 2013 Facial Expression Recignition dataset](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge)
 
