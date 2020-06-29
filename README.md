@@ -59,10 +59,13 @@ The training dataset contains:
 * 84830 sad images
 * 3995 angry images
 
-<p align>
+
   I used the following architecture to train the model on [Google Colab](colab.research.google.com) and downloaded the weights.
+  <br />
+  <br />
+
     <img src = "model.png" alt = "Model Architecture" align="center">
-</p>
+
 
 ### Built With
 
